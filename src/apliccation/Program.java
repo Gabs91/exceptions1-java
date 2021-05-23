@@ -44,6 +44,7 @@ public class Program {
 		}
 		catch (RuntimeException e) {
 			System.out.println("Unexpect error!");
+			
 		}
 	}
 }
